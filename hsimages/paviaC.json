@@ -1,0 +1,14 @@
+{
+    "name": "Pavia City Center",
+    "image": ["data/hsimages/Pavia.mat", "pavia"],
+    "gt": ["data/hsimages/Pavia_gt", "pavia_gt"],
+    "size": [1096, 715, 102],
+    "classes": [
+      "background",
+      "Brocoli_green_weeds_1",
+      "Corn_senesced_green_weeds",
+      "Lettuce_romaine_4wk",
+      "Lettuce_romaine_5wk",
+      "Lettuce_romaine_6wk", "Lettuce_romaine_7wk"
+    ]
+}
